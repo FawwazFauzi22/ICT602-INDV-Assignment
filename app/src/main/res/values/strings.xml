@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bill Calculator</string>
+    <string name="link">
+        Check out <a href = "https://github.com/FawwazFauzi22">github</a> for more information
+    </string>
+</resources>
